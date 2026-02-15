@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.CaminoOSM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Можно добавить кастомные цвета/тему -->
+    </style>
+</resources>
